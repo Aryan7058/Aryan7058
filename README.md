@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Aryan tripathi
 #### I am Aryan Tripathi from India. I am an CS student Ofcourse ! .I am an aspiring UX designer and App developer too. I have knowledge in many of Design softwares such as Adobe XD , Adobe Photoshop, Adobe affter effects etc .  
-![I am Aryan Tripathi from India. I am an CS student Ofcourse ! .I am an aspiring UX designer and App developer too. I have knowledge in many of Design softwares such as Adobe XD , Adobe Photoshop, Adobe affter effects etc .  ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Aryan Tripathi from India. I am an CS student Ofcourse ! .I am an aspiring UX designer and App developer too. I have knowledge in many of Design softwares such as Adobe XD , Adobe Photoshop, Adobe affter effects etc .  ](https://github.com/Aryan7058/Aryan7058/blob/main/github%20banner%20.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
