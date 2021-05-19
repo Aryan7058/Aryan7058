@@ -1,6 +1,5 @@
 
 ### Hi there 👋, my name is Aryan tripathi
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 #### I am Aryan Tripathi from India. I am an CS student Ofcourse ! .I am an aspiring UX designer and App developer too. I have knowledge in many of Design softwares such as Adobe XD , Adobe Photoshop, Adobe affter effects etc .  
 ![I am Aryan Tripathi from India. I am an CS student Ofcourse ! .I am an aspiring UX designer and App developer too. I have knowledge in many of Design softwares such as Adobe XD , Adobe Photoshop, Adobe affter effects etc .  ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
