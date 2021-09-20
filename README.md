@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Aryan tripathi
-#### I am Aryan Tripathi from India. I am an CS student Ofcourse ! .I am an App developer and an aspiring UX designer too. I have knowledge in many of Design softwares such as Adobe XD , Adobe Photoshop, Adobe affter effects etc .  
+####. I am an CS student Ofcourse ! .I am an App developer and an aspiring UX designer too. I have knowledge in many of Design softwares such as Adobe XD , Adobe Photoshop, Adobe affter effects etc .  
 ![I am Aryan Tripathi from India. I am an CS student Ofcourse ! .I am an aspiring UX designer and App developer too. I have knowledge in many of Design softwares such as Adobe XD , Adobe Photoshop, Adobe affter effects etc .  ](https://github.com/Aryan7058/Aryan7058/blob/main/github%20banner%20.jpg)
 
 Skills: Android studio / Kotlin / C++ / Adobe XD / Adobe Photoshop
